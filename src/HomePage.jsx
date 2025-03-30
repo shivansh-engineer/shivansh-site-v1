@@ -46,7 +46,7 @@ export default function HomePage() {
       {/* Main Content */}
       <section className="lg:col-span-3 space-y-10">
         <GridSection title="Professional Experience">
-          <Card title="Senior Director of Product, Salesforce AI [Current]" description="Leading the vision and execution of Agentforce — Trusted AI Agents" link="https://www.salesforce.com/form/agentforce/demo/?d=7013y0000020HCRAA2" />
+          <Card title="Senior Director of Product, Salesforce AI [Current]" description="Leading the vision and execution of Agentforce" link="https://www.salesforce.com/form/agentforce/demo/?d=7013y0000020HCRAA2" />
           <Card title="Founding CTO, Fabric" description="Built a Geospatial Augmented Reality platform for Live Events" link="https://fabric.space" />
           <Card title="Head of Product, AWS AI" description="Developed ML-based content moderation solutions at scale." link="https://aws.amazon.com/rekognition/content-moderation/" />
           <Card title="Product Lead, AWS Outposts" description="Launched AWS Outposts for hybrid cloud environments." link="https://aws.amazon.com/outposts/" />
