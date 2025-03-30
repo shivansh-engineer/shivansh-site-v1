@@ -48,32 +48,26 @@ export default function HomePage() {
         <GridSection title="Professional Experience">
           <Card
             title="Senior Director of Product, Salesforce AI [2024–Present]"
-            description="Leading the vision and execution of Agentforce — an AI-native CRM assistant."
             link="https://www.salesforce.com/form/agentforce/demo/?d=7013y0000020HCRAA2"
           />
           <Card
             title="Founding CTO, Fabric"
-            description="Built a Geospatial Augmented Reality platform blending physical + digital layers."
             link="https://fabric.space"
           />
           <Card
             title="Head of Product, AWS AI"
-            description="Led ML-based content moderation solutions at scale."
             link="https://aws.amazon.com/rekognition/content-moderation/"
           />
           <Card
             title="Product Lead, AWS Outposts"
-            description="Drove productization of AWS Outposts for hybrid cloud environments."
             link="https://aws.amazon.com/outposts/"
           />
           <Card
             title="Sr. Product Manager, Amazon Business"
-            description="Shaped enterprise procurement workflows for global B2B customers."
             link="https://business.amazon.com"
           />
           <Card
             title="Staff Software Engineer, National Instruments"
-            description="Worked on cutting-edge RF test systems including Vector Signal Transceivers."
             link="https://www.ni.com/en-us/shop/category/vector-signal-transceivers.html"
           />
         </GridSection>
