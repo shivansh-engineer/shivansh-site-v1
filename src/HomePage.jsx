@@ -48,12 +48,12 @@ export default function HomePage() {
       <section className="lg:col-span-3 space-y-6">
       <CollapsibleSection title="Professional Experience" defaultOpen>
       <Grid>
-            <Card title="Senior Director of Product, Salesforce AI [2024–Present]" description="Leading the vision and execution of Agentforce platform." link="https://www.salesforce.com/form/agentforce/demo/?d=7013y0000020HCRAA2" />
-            <Card title="Founding CTO, Fabric [2022–2024]" description="Built a Geospatial Augmented Reality platform blending physical + digital layers." link="https://fabric.space" />
-            <Card title="Head of Product, AWS AI [2017–2022]" description="Led ML-based content moderation solutions at scale." link="https://aws.amazon.com/rekognition/content-moderation/" />
+            <Card title="Senior Director of Product, Salesforce AI [Current]" description="Leading the vision and execution of Agentforce platform." link="https://www.salesforce.com/form/agentforce/demo/?d=7013y0000020HCRAA2" />
+            <Card title="Founding CTO, Fabric" description="Built a Geospatial Augmented Reality platform blending physical + digital layers." link="https://fabric.space" />
+            <Card title="Head of Product, AWS AI" description="Led ML-based content moderation solutions at scale." link="https://aws.amazon.com/rekognition/content-moderation/" />
             <Card title="Product Lead, AWS Outposts" description="Drove productization of AWS Outposts for hybrid cloud environments." link="https://aws.amazon.com/outposts/" />
             <Card title="Sr. Product Manager, Amazon Business" description="Shaped enterprise procurement workflows for global B2B customers." link="https://business.amazon.com" />
-            <Card title="Staff Software Engineer, National Instruments [2011–2017]" description="Worked on cutting-edge RF test systems including Vector Signal Transceivers." link="https://www.ni.com/en-us/shop/category/vector-signal-transceivers.html" />
+            <Card title="Staff Software Engineer, National Instruments" description="Worked on cutting-edge RF test systems including Vector Signal Transceivers." link="https://www.ni.com/en-us/shop/category/vector-signal-transceivers.html" />
           </Grid>
         </CollapsibleSection>
 
