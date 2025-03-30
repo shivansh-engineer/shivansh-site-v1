@@ -28,7 +28,7 @@ export default function HomePage() {
 
         <div className="flex flex-col gap-2">
           <a
-            href="mailto:shivansh@example.com"
+            href="mailto:engineer.shivansh@gmail.com"
             className="inline-flex items-center bg-black text-white px-4 py-2 text-sm rounded hover:bg-gray-800"
           >
             <Mail className="mr-2 h-4 w-4" /> Contact Me
